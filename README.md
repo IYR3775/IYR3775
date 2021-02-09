@@ -9,4 +9,4 @@
 
 
 ![IYR3775's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IYR3775&show_icons=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IYR3775)](https://github.com/IYR3775/pwetzel)
+[![Top Langs (Pwetzel)](https://github-readme-stats.vercel.app/api/top-langs/?username=IYR3775)](https://github.com/IYR3775/pwetzel)
